@@ -56,7 +56,7 @@ function printGrid() {
 printGrid();
 moveIt(2); // Flytta på den enligt en knappsats, dvs 2 = uppåt.
 printGrid();
-moveIt(6); // Flytta på den enligt en knappsats, dvs 2 = uppåt.
+moveIt(4); // Flytta på den enligt en knappsats, dvs 4 = höger.
 printGrid();
-moveIt(7); // Flytta på den enligt en knappsats, dvs 2 = uppåt.
+moveIt(4); // Knappsatsen har 123 högst, och 789 längst ner.
 printGrid();
